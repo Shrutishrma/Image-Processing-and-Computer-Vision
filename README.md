@@ -1,4 +1,4 @@
-# 🖼️ Image Processing & Computer Vision Hub
+# 🖼️ Image Processing & Computer Vision 
 
 This repository contains a comprehensive collection of image processing techniques, ranging from traditional mathematical enhancement to modern deep learning architectures.
 
